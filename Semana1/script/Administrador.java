@@ -15,7 +15,7 @@ public class Administrador extends Usuario {
     }
     
     public void asignarPermisos() {
-        System.out.println("Admin esta asignando permisos de administrador...");
+        System.out.println("Admin hola gorda probar esta asignando permisos de administrador...");
     }
     public void editarNotas()
     {
