@@ -1,4 +1,4 @@
-package ZOOLOGICO.Trabajo2;
+package Trabajo2;
 
 public class Mamifero extends Animal {
     private String tipoPelaje;

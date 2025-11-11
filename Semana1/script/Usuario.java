@@ -1,8 +1,8 @@
 package Semana1.script;
 
 public class Usuario {
-    private String nombre;
-    private int id;
+    public String nombre;
+    public int id;
     private String password;
 
     public Usuario(String nombre, int id, String password) {
